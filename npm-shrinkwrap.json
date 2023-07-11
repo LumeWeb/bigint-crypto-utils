@@ -1,12 +1,12 @@
 {
     "name": "@lumeweb/bigint-crypto-utils",
-    "version": "3.3.0",
+    "version": "1.0.0",
     "lockfileVersion": 3,
     "requires": true,
     "packages": {
         "": {
             "name": "@lumeweb/bigint-crypto-utils",
-            "version": "3.3.0",
+            "version": "1.0.0",
             "license": "MIT",
             "dependencies": {
                 "@lumeweb/bigint-mod-arith": "^1.0.0"
