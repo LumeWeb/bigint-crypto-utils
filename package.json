@@ -41,7 +41,8 @@
     "_id": "bigint-crypto-utils@3.3.0",
     "scripts": {
         "prepare": "presetter bootstrap",
-        "build": "run build"
+        "build": "run build",
+        "semantic-release": "semantic-release"
     },
     "dependencies": {
         "@lumeweb/bigint-mod-arith": "^1.0.0"
